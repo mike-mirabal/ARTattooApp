@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/MenuScene.unity
+    guid: 42d3cc6fd85064f21945ddde6745bdad
+  - enabled: 1
+    path: Assets/ARTattooNew.unity
+    guid: 4aeb4997489c543c8abe3d6422a3a220
+  m_configObjects: {}

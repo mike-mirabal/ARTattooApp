@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ARTATTOO_06" size="1.000000 0.926505" />
+    <ImageTarget name="ARTATTOO_05" size="1.000000 1.113416" />
+    <ImageTarget name="ARTATTOO_04" size="1.000000 1.249246" />
+    <ImageTarget name="ARTATTOO_03" size="1.000000 1.225962" />
+    <ImageTarget name="ARTATTOO_02" size="1.000000 2.313253" />
+    <ImageTarget name="ARTATTOO_01" size="4.000000 4.110092" />
+  </Tracking>
+</QCARConfig>
